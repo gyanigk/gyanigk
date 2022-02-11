@@ -18,9 +18,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanig.kumar@gmail.com)](mailto:gyanig.kumar@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Gyanig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanig-k-b36666146/)](https://www.linkedin.com/in/gyanig-k-b36666146) ![Profile View Counter](https://hit.yhype.me/github/profile?user_id=15231699)
 
-I am Gyanig 😃. I am from India and currently working at [Somewhere in the cloud]() ☁ 
+I am Gyanig 😃. I am from India and currently working at [Somewhere in the cloud](https://github.com/p4rZ/Machine-Learning-Space) ☁ 
 
-I major in Systems Engineering in [Kalinga University of Technologu](https://kiit.ac.in/) 💻
+I major in Systems Engineering in [Kalinga University of Technology](https://kiit.ac.in/) 💻
 
 I started coding by creating hobby projects on robotics in [Loyola High School](http://www.loyolabbsr.edu.in/) 🕊
 
