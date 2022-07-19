@@ -18,17 +18,17 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanig.kumar@gmail.com)](mailto:gyanig.kumar@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Gyanig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanig-k-b36666146/)](https://www.linkedin.com/in/gyanig-k-b36666146)
 
-[![Gyanig's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4rZ)](https://github.com/p4rZ/github-readme-stats)
+[![Gyanig's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanigk)](https://github.com/gyanigk/github-readme-stats)
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=p4rZ&theme=tokyonight)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanigk&theme=tokyonight)
 
 ![Metrics](https://metrics.lecoq.io/p4rZ?template=terminal&achievements=1&stars=1&languages=1&code=1&notable=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FCalcutta)
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=p4rZ.p4rZ)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=gyanigk.gyanigk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4rZ&theme=tokyonight)](https://github.com/p4rZ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanigk&theme=tokyonight)](https://github.com/gyanigk/github-readme-stats)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=p4rZ)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=gyanigk)
 
 I am Gyanig 😃. I am from India and currently working at [Somewhere in the cloud](https://github.com/p4rZ/Machine-Learning-Space) ☁ 
 
