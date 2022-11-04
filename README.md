@@ -34,17 +34,18 @@
                                                                                                                                                    -->
 </pre>
 ---
-<h2>Hi,People of Internet 🚀 </h2>
+<!-- <h2>Hi,People of Internet 🚀 </h2> -->
 
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanig.kumar@gmail.com)](mailto:gyanig.kumar@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Gyanig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanig-k-b36666146/)](https://www.linkedin.com/in/gyanig-k-b36666146)
+<!-- 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanig.kumar@gmail.com)](mailto:gyanig.kumar@gmail.com) 
+-->
+[![Linkedin Badge](https://img.shields.io/badge/-Gyanig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanig-k-b36666146/)](https://www.linkedin.com/in/gyanig-k-b36666146) 
 
 [![Gyanig's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanigk)](https://github.com/gyanigk/github-readme-stats)
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanigk&theme=tokyonight)
+<!-- ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanigk&theme=tokyonight) -->
 
-
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=gyanigk.gyanigk)
+<!-- ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=gyanigk.gyanigk) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanigk&theme=tokyonight)](https://github.com/gyanigk/github-readme-stats)
 
@@ -52,21 +53,23 @@
 
 
 
-## 👯 Communities
+<!-- ## 👯 Communities -->
 <!-- * 🚀 [DSC-KIIT](https://dsckiit.in/) ML Developer/Contributor   -->
 <!-- * 🌍 Kaggle Contributor 
 * 🌙 Solve [Tensorflow] issues  -->
-* 🌳 Write Bash/Python Scripts endlessly 
-* 🤝 Computer Vision and Speech Processing Researcher
-* 📚 [Konnexions-ML](https://sites.google.com/kiit.ac.in/konnexions/home?pli=1&authuser=0) ML Teaching Assistant
+<!-- * 🌳 Write Bash/Python Scripts endlessly  -->
+<!-- * 🤝 Computer Vision and Speech Processing Researcher -->
+Updates:
+* 🚀 [I3D Labs](https://cambum.net/I3D.htm) Research Intern for HCI & CV
+* 📚 [Konnexions-ML](https://sites.google.com/kiit.ac.in/konnexions/home?pli=1&authuser=0) TA for Machine Learning Class
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies -->
 <!-- - 🔗 Code contributing with **Google Summer of Code **
 - 🚪 Web Services using **tensorflow-js** -->
-- 👀 Efficient with **Keras, Tensorflow, Tensorflow.js & Pytorch**
-- 🔩 Hobby as building Robots with **ROS**
-- 🔧 Basic knowledge on **MERN, Docker & System Design**
-- 💬 Mostly Programming with **Python, C++, C**
+<!-- - 👀 Efficient with **Tensorflow, Tensorflow.js & Pytorch** -->
+<!-- - 🔩 Hobby as building Robots with **ROS** -->
+<!-- - 🔧 Basic knowledge on **MERN, Docker & System Design** -->
+<!-- - 💬 Mostly Programming with **Python, C++, C** -->
 
 
 
